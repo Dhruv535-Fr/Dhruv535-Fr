@@ -28,30 +28,8 @@ I’m currently focusing on Backend Development, where I enjoy building logic-dr
 
 I enjoy learning new tech, but sometimes balancing time between multiple technologies can be challenging.
 
-🛠️ Tech Stack
-
-Languages:
-C, C++, Java, Python
-
-Web Development:
-HTML, CSS, JavaScript, Node.js, Express.js
-
-Databases:
-MongoDB, SQL
-
-Other Skills:
-REST APIs, Git, GitHub, Postman
-
 Currently Exploring:
 Backend Architecture & AI/ML Projects
-
-🧠 What I Prefer
-
-Logic-heavy systems over UI design
-
-Building efficient solutions in C++
-
-Backend development & system-level thinking
 
 🎯 Goals
 
