@@ -22,32 +22,12 @@ Here are some ideas to get you started:
 
 🚀 About Me
 
-I'm a Computer Science student who loves exploring new technologies and understanding how things actually work behind the scenes.
-
 I’m currently focusing on Backend Development, where I enjoy building logic-driven systems, handling routes, managing data flow, and designing APIs. Frontend is not my primary interest (and AI makes it easier anyway 😄), but I still find creating interfaces exciting.
 
 I enjoy learning new tech, but sometimes balancing time between multiple technologies can be challenging.
 
 Currently Exploring:
 Backend Architecture & AI/ML Projects
-
-🎯 Goals
-
-Short-Term:
-
-Get physically fit
-
-Secure an internship at a good company
-
-Master backend development
-
-Strong DSA revision & problem-solving
-
-Long-Term:
-
-Start career as a Backend Developer
-
-Eventually try building my own startup 
 
 🎨 Hobbies & Interests
 
